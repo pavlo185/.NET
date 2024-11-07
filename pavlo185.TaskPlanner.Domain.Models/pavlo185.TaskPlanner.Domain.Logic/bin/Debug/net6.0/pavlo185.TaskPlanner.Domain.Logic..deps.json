@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pavlo185.TaskPlanner.Domain.Logic./1.0.0": {
+        "dependencies": {
+          "pavlo185.TaskPlanner.Domain.Models.": "1.0.0"
+        },
+        "runtime": {
+          "pavlo185.TaskPlanner.Domain.Logic..dll": {}
+        }
+      },
+      "pavlo185.TaskPlanner.Domain.Models./1.0.0": {
+        "runtime": {
+          "pavlo185.TaskPlanner.Domain.Models..dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pavlo185.TaskPlanner.Domain.Logic./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "pavlo185.TaskPlanner.Domain.Models./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

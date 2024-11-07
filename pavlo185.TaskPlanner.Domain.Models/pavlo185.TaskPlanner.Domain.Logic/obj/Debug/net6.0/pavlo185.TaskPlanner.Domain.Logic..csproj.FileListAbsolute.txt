@@ -1,0 +1,15 @@
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Logic\bin\Debug\net6.0\pavlo185.TaskPlanner.Domain.Logic..deps.json
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Logic\bin\Debug\net6.0\pavlo185.TaskPlanner.Domain.Logic..dll
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Logic\bin\Debug\net6.0\pavlo185.TaskPlanner.Domain.Logic..pdb
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Logic\bin\Debug\net6.0\pavlo185.TaskPlanner.Domain.Models..dll
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Logic\bin\Debug\net6.0\pavlo185.TaskPlanner.Domain.Models..pdb
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Logic\obj\Debug\net6.0\pavlo185.TaskPlanner.Domain.Logic..csproj.AssemblyReference.cache
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Logic\obj\Debug\net6.0\pavlo185.TaskPlanner.Domain.Logic..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Logic\obj\Debug\net6.0\pavlo185.TaskPlanner.Domain.Logic..AssemblyInfoInputs.cache
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Logic\obj\Debug\net6.0\pavlo185.TaskPlanner.Domain.Logic..AssemblyInfo.cs
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Logic\obj\Debug\net6.0\pavlo185.TaskPlanner.Domain.Logic..csproj.CoreCompileInputs.cache
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Logic\obj\Debug\net6.0\pavlo185.34E70C3E.Up2Date
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Logic\obj\Debug\net6.0\pavlo185.TaskPlanner.Domain.Logic..dll
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Logic\obj\Debug\net6.0\refint\pavlo185.TaskPlanner.Domain.Logic..dll
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Logic\obj\Debug\net6.0\pavlo185.TaskPlanner.Domain.Logic..pdb
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Logic\obj\Debug\net6.0\ref\pavlo185.TaskPlanner.Domain.Logic..dll

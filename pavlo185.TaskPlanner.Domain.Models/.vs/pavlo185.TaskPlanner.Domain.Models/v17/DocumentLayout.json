@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pavlo\\source\\repos\\lab.Net\\pavlo185.TaskPlanner.Domain.Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{399B6976-6213-4765-A793-F3D3AC5B361D}|pavlo185.TaskPlanner\\pavlo185.TaskPlanner.csproj|c:\\users\\pavlo\\source\\repos\\lab.net\\pavlo185.taskplanner.domain.models\\pavlo185.taskplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399B6976-6213-4765-A793-F3D3AC5B361D}|pavlo185.TaskPlanner\\pavlo185.TaskPlanner.csproj|solutionrelative:pavlo185.taskplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F780021F-2244-4EC8-9B2E-48B88EAFF472}|pavlo185.TaskPlanner.Domain.Logic\\pavlo185.TaskPlanner.Domain.Logic..csproj|c:\\users\\pavlo\\source\\repos\\lab.net\\pavlo185.taskplanner.domain.models\\pavlo185.taskplanner.domain.logic\\simpletaskplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F780021F-2244-4EC8-9B2E-48B88EAFF472}|pavlo185.TaskPlanner.Domain.Logic\\pavlo185.TaskPlanner.Domain.Logic..csproj|solutionrelative:pavlo185.taskplanner.domain.logic\\simpletaskplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F780021F-2244-4EC8-9B2E-48B88EAFF472}|pavlo185.TaskPlanner.Domain.Logic\\pavlo185.TaskPlanner.Domain.Logic..csproj|c:\\users\\pavlo\\source\\repos\\lab.net\\pavlo185.taskplanner.domain.models\\pavlo185.taskplanner.domain.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F780021F-2244-4EC8-9B2E-48B88EAFF472}|pavlo185.TaskPlanner.Domain.Logic\\pavlo185.TaskPlanner.Domain.Logic..csproj|solutionrelative:pavlo185.taskplanner.domain.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1E553F-C08F-4484-AA36-35D411D3475D}|pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models..csproj|c:\\users\\pavlo\\source\\repos\\lab.net\\pavlo185.taskplanner.domain.models\\pavlo185.taskplanner.domain.models\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1E553F-C08F-4484-AA36-35D411D3475D}|pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models..csproj|solutionrelative:pavlo185.taskplanner.domain.models\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1E553F-C08F-4484-AA36-35D411D3475D}|pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models..csproj|c:\\users\\pavlo\\source\\repos\\lab.net\\pavlo185.taskplanner.domain.models\\pavlo185.taskplanner.domain.models\\enums\\complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1E553F-C08F-4484-AA36-35D411D3475D}|pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models..csproj|solutionrelative:pavlo185.taskplanner.domain.models\\enums\\complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1E553F-C08F-4484-AA36-35D411D3475D}|pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models..csproj|c:\\users\\pavlo\\source\\repos\\lab.net\\pavlo185.taskplanner.domain.models\\pavlo185.taskplanner.domain.models\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1E553F-C08F-4484-AA36-35D411D3475D}|pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models..csproj|solutionrelative:pavlo185.taskplanner.domain.models\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1E553F-C08F-4484-AA36-35D411D3475D}|pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models..csproj|c:\\users\\pavlo\\source\\repos\\lab.net\\pavlo185.taskplanner.domain.models\\pavlo185.taskplanner.domain.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1E553F-C08F-4484-AA36-35D411D3475D}|pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models..csproj|solutionrelative:pavlo185.taskplanner.domain.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pavlo\\source\\repos\\lab.Net\\pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner\\Program.cs",
+              "RelativeDocumentMoniker": "pavlo185.TaskPlanner\\Program.cs",
+              "ToolTip": "C:\\Users\\pavlo\\source\\repos\\lab.Net\\pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner\\Program.cs",
+              "RelativeToolTip": "pavlo185.TaskPlanner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:39:56.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleTaskPlanner.cs",
+              "DocumentMoniker": "C:\\Users\\pavlo\\source\\repos\\lab.Net\\pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeDocumentMoniker": "pavlo185.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ToolTip": "C:\\Users\\pavlo\\source\\repos\\lab.Net\\pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeToolTip": "pavlo185.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:33:52.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pavlo\\source\\repos\\lab.Net\\pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Logic\\Class1.cs",
+              "RelativeDocumentMoniker": "pavlo185.TaskPlanner.Domain.Logic\\Class1.cs",
+              "ToolTip": "C:\\Users\\pavlo\\source\\repos\\lab.Net\\pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Logic\\Class1.cs",
+              "RelativeToolTip": "pavlo185.TaskPlanner.Domain.Logic\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:31:49.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkItem.cs",
+              "DocumentMoniker": "C:\\Users\\pavlo\\source\\repos\\lab.Net\\pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "RelativeDocumentMoniker": "pavlo185.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "ToolTip": "C:\\Users\\pavlo\\source\\repos\\lab.Net\\pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "RelativeToolTip": "pavlo185.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:07:34.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Complexity.cs",
+              "DocumentMoniker": "C:\\Users\\pavlo\\source\\repos\\lab.Net\\pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "RelativeDocumentMoniker": "pavlo185.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "ToolTip": "C:\\Users\\pavlo\\source\\repos\\lab.Net\\pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "RelativeToolTip": "pavlo185.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:05:46.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\pavlo\\source\\repos\\lab.Net\\pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
+              "RelativeDocumentMoniker": "pavlo185.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
+              "ToolTip": "C:\\Users\\pavlo\\source\\repos\\lab.Net\\pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
+              "RelativeToolTip": "pavlo185.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:04:39.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pavlo\\source\\repos\\lab.Net\\pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "pavlo185.TaskPlanner.Domain.Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\pavlo\\source\\repos\\lab.Net\\pavlo185.TaskPlanner.Domain.Models\\pavlo185.TaskPlanner.Domain.Models\\Class1.cs",
+              "RelativeToolTip": "pavlo185.TaskPlanner.Domain.Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:02:11.918Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

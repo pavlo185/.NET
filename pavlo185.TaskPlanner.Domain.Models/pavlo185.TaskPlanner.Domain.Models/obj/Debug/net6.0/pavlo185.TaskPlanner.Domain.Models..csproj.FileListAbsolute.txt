@@ -1,0 +1,11 @@
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Models\bin\Debug\net6.0\pavlo185.TaskPlanner.Domain.Models..deps.json
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Models\bin\Debug\net6.0\pavlo185.TaskPlanner.Domain.Models..dll
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Models\bin\Debug\net6.0\pavlo185.TaskPlanner.Domain.Models..pdb
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Models\obj\Debug\net6.0\pavlo185.TaskPlanner.Domain.Models..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Models\obj\Debug\net6.0\pavlo185.TaskPlanner.Domain.Models..AssemblyInfoInputs.cache
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Models\obj\Debug\net6.0\pavlo185.TaskPlanner.Domain.Models..AssemblyInfo.cs
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Models\obj\Debug\net6.0\pavlo185.TaskPlanner.Domain.Models..csproj.CoreCompileInputs.cache
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Models\obj\Debug\net6.0\pavlo185.TaskPlanner.Domain.Models..dll
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Models\obj\Debug\net6.0\refint\pavlo185.TaskPlanner.Domain.Models..dll
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Models\obj\Debug\net6.0\pavlo185.TaskPlanner.Domain.Models..pdb
+C:\Users\pavlo\source\repos\lab.Net\pavlo185.TaskPlanner.Domain.Models\pavlo185.TaskPlanner.Domain.Models\obj\Debug\net6.0\ref\pavlo185.TaskPlanner.Domain.Models..dll
